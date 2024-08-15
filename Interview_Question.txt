@@ -23,4 +23,13 @@
 - What is github and dockerhub?
 - what is images?
 - what is docker registry?
-- What is the structure of dockerfile?
+- What is the structure of dockerfile / Tell the syntax?
+- What is multistage build?
+- Can we install anyother image as the base image instead of ubuntu?
+- What is the fundamental advantage of multistage build?
+- What we don't use base image as java?
+- What are the number of stages that can we be in a multistage docker build?
+- What is distroless image?
+- What is the advantage of distroless image?
+- What i the one of the production issue that you faced with the docker container and how did u solve it?
+- What is the future of the container?
