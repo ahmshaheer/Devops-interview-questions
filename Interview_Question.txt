@@ -1,0 +1,24 @@
+Why we are moving towards container?
+What is container?
+What is the arctiecture of container?
+Why containers are lightweight?
+How to take backup of an image in VM?
+Why we need logical isolation?
+What kind of system dependenices we required to form a logical isolation?
+What steps we take if we have to make a container?
+what is buildah?
+What will happen if the container shares these files: /usr, /bin, /etc?
+what kind of files and folder container used from host OS?
+
+What is docker?
+What is the arctiecture of docker?
+What is the lifecycle of docker?
+what is dockerfile?
+Wha is docker image?
+What will happen if the docker engine fail?
+What does docker solve / What is docker used for?
+What is docker daemon?
+What is github and dockerhub?
+what is images?
+what is docker registry?
+what is the structure of dockerfile?
