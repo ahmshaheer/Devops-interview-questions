@@ -31,5 +31,10 @@
 - What are the number of stages that can we be in a multistage docker build?
 - What is distroless image?
 - What is the advantage of distroless image?
-- What i the one of the production issue that you faced with the docker container and how did u solve it?
+- What is the one of the production issue that you faced with the docker container and how did u solve it?
 - What is the future of the container?
+- What is docker bind mounts?
+- What is docker volume?
+- What is nginx?
+- What will happen if the container goes down? How to make sure that if the container goes down how can we access the logs?
+- What is the lifecycle of volume?
