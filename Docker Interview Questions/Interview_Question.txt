@@ -1,3 +1,5 @@
+Docker Interview Questions
+
 # Conatiners
 - Why we are moving towards container?
 - What is container?
@@ -38,3 +40,7 @@
 - What is nginx?
 - What will happen if the container goes down? How to make sure that if the container goes down how can we access the logs?
 - What is the lifecycle of volume?
+- What is networking in container?
+- What is bridge networking?
+- How container talk with host?
+- If we have special container in docker how can we securely talk with host?

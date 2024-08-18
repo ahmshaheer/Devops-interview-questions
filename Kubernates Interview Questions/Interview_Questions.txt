@@ -1,0 +1,6 @@
+Kubernates Interview Questions
+
+- What is kubernates?
+- What kind of problems kubernates is solving which docker is not solving?
+- Explain how kubernates is solving problems?
+- What is the arctiecture of kubernates? 
