@@ -18,6 +18,7 @@ Docker Interview Questions
 - What is the arctiecture of docker?
 - What is the lifecycle of docker?
 - what is dockerfile?
+- Is docker ephemeral?
 - What is docker image?
 - What will happen if the docker engine fail?
 - What does docker solve / What is docker used for?
