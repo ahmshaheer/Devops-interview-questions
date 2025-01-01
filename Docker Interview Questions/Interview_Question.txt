@@ -36,6 +36,7 @@ Docker Interview Questions
 - What is the advantage of distroless image?
 - What is the one of the production issue that you faced with the docker container and how did u solve it?
 - What is the future of the container?
+- wWhat problem does bind mounts and volume solve?
 - What is docker bind mounts?
 - What is docker volume?
 - What is nginx?
